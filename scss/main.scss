@@ -1,0 +1,17 @@
+$mainColor: blue;
+
+.red { color: $mainColor; }
+.red-dark { color: darken($mainColor, 20%); }
+
+.spongebob {
+  padding: 1rem 2rem;
+
+  img {
+    transition: transform .8s ease-in-out;
+
+    &:hover { transform: rotate(360deg); }
+  }
+}
+
+@import "partial-a";
+@import "partial-b";

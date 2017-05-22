@@ -1,0 +1,23 @@
+{
+  "name": "0-19-ScssPlay",
+  "version": "1.0.0",
+  "description": "Scss Training",
+  "main": "index.js",
+  "scripts": {
+    "start": "node-sass -o css scss"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fancn21th/0-19-ScssPlay.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fancn21th/0-19-ScssPlay/issues"
+  },
+  "homepage": "https://github.com/fancn21th/0-19-ScssPlay#readme",
+  "devDependencies": {
+    "node-sass": "^4.5.3"
+  }
+}

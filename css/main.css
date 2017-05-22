@@ -1,0 +1,18 @@
+.red {
+  color: blue; }
+
+.red-dark {
+  color: #000099; }
+
+.spongebob {
+  padding: 1rem 2rem; }
+  .spongebob img {
+    transition: transform .8s ease-in-out; }
+    .spongebob img:hover {
+      transform: rotate(360deg); }
+
+.blue {
+  color: blue; }
+
+.red-dark {
+  color: black; }
